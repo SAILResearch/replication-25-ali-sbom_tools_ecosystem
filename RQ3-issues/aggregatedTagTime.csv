@@ -1,0 +1,29 @@
+,X,category,identifier,avg_Resolution_Time,total,order
+1,18,Integration and Interfacing,SPDX,30956476.57,52084025.44,1
+2,17,Integration and Interfacing,CycloneDX,21127548.86,52084025.44,2
+3,10,Configuration,SPDX,22035935.66,38269283.37,3
+4,9,Configuration,CycloneDX,16233347.71,38269283.37,4
+5,21,Licensing,CycloneDX,25051158.94,37112037.93,5
+6,22,Licensing,SPDX,12060878.98,37112037.93,6
+7,8,Community Eng. and Support,SPDX,19145304.21,34139331.48,7
+8,7,Community Eng. and Support,CycloneDX,14994027.27,34139331.48,8
+9,4,Code Components,SPDX,18807765.61,33389036.74,9
+10,3,Code Components,CycloneDX,14581271.14,33389036.74,10
+11,28,User Interface and Outputs,SPDX,19766598.74,31785108.7,11
+12,27,User Interface and Outputs,CycloneDX,12018509.97,31785108.7,12
+13,16,Feature Dev. and Enhancement,SPDX,19713843.21,31082021.32,13
+14,15,Feature Dev. and Enhancement,CycloneDX,11368178.12,31082021.32,14
+15,2,Bug Fixes and Defects,SPDX,19947664.79,27226936.88,15
+16,1,Bug Fixes and Defects,CycloneDX,7279272.088,27226936.88,16
+17,25,Technical Debt,CycloneDX,13900207.36,25414222.02,17
+18,26,Technical Debt,SPDX,11514014.67,25414222.02,18
+19,5,Code Quality,CycloneDX,15919824.43,24960897.4,19
+20,6,Code Quality,SPDX,9041072.975,24960897.4,20
+21,19,Libraries,CycloneDX,16827623.23,23465267.23,21
+22,20,Libraries,SPDX,6637644,23465267.23,22
+23,14,Documentation,SPDX,13750408.89,23188272.16,23
+24,13,Documentation,CycloneDX,9437863.266,23188272.16,24
+25,23,Release Management and Versioning,CycloneDX,10713487.3,20694606.38,25
+26,24,Release Management and Versioning,SPDX,9981119.089,20694606.38,26
+27,12,CI/CD,SPDX,4015761.794,7480373.188,27
+28,11,CI/CD,CycloneDX,3464611.394,7480373.188,28

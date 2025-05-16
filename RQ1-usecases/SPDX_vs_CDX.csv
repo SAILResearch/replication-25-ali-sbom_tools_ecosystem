@@ -1,0 +1,94 @@
+﻿Name,Format,BUILD,ANALYZE,EDIT,Produce,VIEW,DIFF,IMPORT,Consume,TRANSLATE,MERGE,SUPPORT,Transform,Name,Format,BUILD,ANALYZE,EDIT,Produce,VIEW,DIFF,IMPORT,Consume,TRANSLATE,MERGE,SUPPORT,Transform
+Bytesafe,SPDX,0,1,0,1,1,0,1,1,0,0,1,1,Fortify on Demand,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+RKVST SBOM Hub,SPDX,1,1,0,1,0,0,0,0,0,0,0,0,Apiiro,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+Xygeni Software Supply-Chain Security,SPDX,1,0,0,1,1,0,0,1,0,0,1,1,Veracode,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+Vulert,SPDX,0,1,0,1,1,0,1,1,0,0,0,0,Cybellum SBOM,CycloneDX,1,1,1,1,1,0,1,1,1,1,1,1
+TrustSource,SPDX,0,1,1,1,1,0,1,1,0,0,1,1,Arsenal,CycloneDX,1,1,0,1,1,0,1,1,0,0,0,0
+Tidelift,SPDX,1,1,0,1,1,0,1,1,0,0,0,0,StackAware,CycloneDX,0,1,0,1,1,0,0,1,0,0,0,0
+FACT,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,CodeSentry,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+Sonatype Lift,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,SecureStack,CycloneDX,1,1,0,1,0,0,0,0,0,0,1,1
+FOSSA,SPDX,1,1,0,1,1,0,1,1,0,0,0,0,PulseUno Plugin for Dimensions CM,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+Nexus IQ,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,Reliza Hub,CycloneDX,1,0,0,1,1,0,1,1,0,0,1,1
+BlackBerry Jarvis,SPDX,0,1,0,1,0,0,0,0,0,0,0,0,Prisma Cloud,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+SBOM.sh,SPDX,1,0,0,1,1,0,1,1,0,0,0,0,NowSecure Platform,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+SBOM Observer,SPDX,1,1,0,1,1,0,1,1,0,0,1,1,JDisc Discovery,CycloneDX,1,1,0,1,1,0,1,1,0,0,1,1
+SBOM Insights,SPDX,1,1,1,1,1,0,1,1,0,1,1,1,JupiterOne,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+Software Assurance Guardian Point Man,SPDX,1,1,0,1,1,0,1,1,0,0,0,0,Debricked,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+SBOM Benchmark,SPDX,0,1,0,1,1,1,0,1,0,0,0,0,CxSCA,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+Codenotary vcn,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,CAST Highlight,CycloneDX,1,1,0,1,1,0,1,1,0,0,1,1
+NetRise Turbine,SPDX,1,1,0,1,1,0,1,1,0,1,0,1,Beniva Software Bill of Materials (SBOM),CycloneDX,0,1,0,1,1,0,1,1,0,0,0,0
+Mend SCA,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,Athena,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+Manifest,SPDX,1,1,0,1,1,1,1,1,0,1,1,1,Arnica,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+Kondukto,SPDX,1,1,0,1,1,0,1,1,0,0,1,1,DejaCode,CycloneDX,1,1,1,1,1,0,0,1,1,0,0,1
+Xray,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,SourceAuditor,CycloneDX,0,1,0,1,1,1,1,1,1,0,0,1
+Ion Channel Platform,SPDX,1,1,0,1,1,0,1,1,0,0,0,0,Jake,CycloneDX,1,0,0,1,1,0,0,1,0,0,0,0
+Vulnerabilities.io,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,gobom,CycloneDX,1,0,0,1,0,0,0,0,0,1,0,1
+Flawnter,SPDX,1,1,0,1,0,0,0,0,0,0,1,1,Vuls,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+Enso,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,CycloneDX Web Tool,CycloneDX,0,0,0,0,1,0,0,1,1,1,0,1
+Endor Labs,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,macaron,CycloneDX,0,0,0,0,0,0,1,1,0,0,1,1
+Fortress File Integrity Assurance,SPDX,1,1,0,1,1,1,1,1,1,0,1,1,CycloneDX Rust,CycloneDX,0,0,0,0,0,0,0,0,0,0,1,1
+Rezilion Dynamic SBOM,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,LicenseComplianceTool,CycloneDX,0,0,1,1,0,0,1,1,0,0,0,0
+MedScan,SPDX,0,1,0,1,0,0,1,1,0,0,0,0,Augur,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+Black Duck,SPDX,1,1,0,1,1,0,1,1,0,0,1,1,bom,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+Contrast Security,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,Cavil,CycloneDX,0,0,0,0,1,0,0,1,0,0,0,0
+Heimdall,SPDX,1,1,0,1,1,0,1,1,1,0,0,1,FOSSLight,CycloneDX,0,1,1,1,1,0,0,1,1,1,0,1
+ONEKEY firmware analysis platform,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,Nix / Nixpkgs,CycloneDX,1,0,0,1,0,0,0,0,0,0,0,0
+SCANOSS,SPDX,1,1,0,1,1,0,1,1,0,0,1,1,yasca (Yet Another SCA tool),CycloneDX,1,0,0,1,1,0,0,1,0,0,0,0
+Cybeats SBOM Studio,SPDX,1,1,0,1,0,0,1,1,1,1,1,1,CycloneDX PHP Library,CycloneDX,1,0,1,1,0,0,0,0,1,0,0,1
+FOSSID,SPDX,1,1,0,1,1,1,1,1,0,0,0,0,mdbom,CycloneDX,0,0,0,0,1,0,0,1,1,0,0,1
+Interlynk,SPDX,1,1,0,1,1,0,1,1,1,1,0,1,cyclonedx-merge,CycloneDX,0,0,0,0,0,0,0,0,0,1,0,1
+Snyk,SPDX,1,1,0,1,1,0,1,1,0,0,0,0,SnykVulnCheck,CycloneDX,0,1,0,1,0,0,0,0,0,0,0,0
+Vigilant Ops,SPDX,1,1,0,1,1,0,0,1,1,0,1,1,Semgrep,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+Grype,SPDX,1,0,0,1,1,0,1,1,0,0,0,0,SecObserve,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+Covenant,SPDX,1,0,0,1,1,0,0,1,1,0,1,1,Valaa Stack,CycloneDX,1,0,0,1,0,0,0,0,1,0,0,1
+Parlay,SPDX,0,0,1,1,0,0,0,0,0,0,0,0,Salus,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+OSS Review Toolkit (ORT),SPDX,1,1,0,1,1,1,1,1,0,0,0,0,sca-codeinsight-reports-cyclonedx,CycloneDX,1,0,0,1,0,0,0,0,0,0,0,0
+Lib4sbom,SPDX,1,0,1,1,0,0,1,1,0,0,0,0,CycloneDX Python Library,CycloneDX,1,0,0,1,1,1,1,1,1,0,1,1
+Codenotary CAS Notarize Docker Image and SBOM,SPDX,1,0,0,1,1,0,0,1,0,0,0,0,Nexus Lifecycle Jenkins Plugin,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+Codenotary CAS Authenticate Docker Image and SBOM,SPDX,1,0,0,1,1,0,0,1,0,0,0,0,Checkov,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+CycloneDX CLI,SPDX,1,1,1,1,1,1,0,1,1,1,0,1,Dependency-Track Maven Plugin,CycloneDX,1,1,0,1,1,0,1,1,0,0,1,1
+FOSSology,SPDX,0,1,1,1,1,1,0,1,1,1,1,1,CycloneDX Core for Java,CycloneDX,1,1,0,1,0,0,1,1,0,0,1,1
+GitHub Self-Service SBOMs,SPDX,0,1,0,1,0,0,0,0,0,0,0,0,Kyverno,CycloneDX,1,1,0,1,1,0,0,1,0,0,1,1
+in-toto,SPDX,1,0,0,1,0,0,0,0,0,0,0,0,kbom - Kubernetes Bill of Materials powered by KSOC,CycloneDX,1,0,0,1,0,0,0,0,0,0,0,0
+Tern,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,jbom,CycloneDX,1,0,0,1,0,0,0,0,0,0,0,0
+Scancode Toolkit,SPDX,0,1,0,1,1,0,0,1,0,0,0,0,oss_inventory,CycloneDX,0,1,0,1,1,0,1,1,0,0,0,0
+SBOM Grep,SPDX,0,1,0,1,1,0,1,1,0,0,0,0,CycloneDX library for Go,CycloneDX,1,0,0,1,0,0,1,1,0,0,0,0
+SBOM Explorer,SPDX,0,0,0,0,0,0,1,1,0,0,0,0,sbom-submission-action,CycloneDX,0,1,0,1,0,0,0,0,0,0,1,1
+SBOM Assembler,SPDX,0,0,0,0,0,0,1,1,0,1,0,1,action-owasp-dependecy-track-check,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+spdxcyclone,SPDX,0,0,0,0,0,0,0,0,1,0,0,1,SRC:CLR SBOM Generator,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+docker-sbom-cli-plugin,SPDX,1,0,0,1,0,0,0,0,0,0,0,0,Vexy,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+Lagoon Insights Handler,SPDX,0,0,0,0,0,0,1,1,0,0,1,1,EMBA,CycloneDX,1,1,0,1,1,0,0,1,0,0,0,0
+KubeClarity,SPDX,1,1,0,1,1,0,0,1,0,1,1,1,CycloneDX for .NET,CycloneDX,1,0,0,1,0,0,0,0,0,0,0,0
+SwiftBOM,SPDX,1,0,0,1,1,0,0,1,0,0,0,0,cdxgen,CycloneDX,1,1,0,1,0,0,0,0,0,0,1,1
+ThreatMapper,SPDX,1,1,0,1,1,0,0,1,0,0,0,0,CycloneDX Python Generate SBOM,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+DaggerBoard,SPDX,0,1,0,1,1,0,1,1,0,0,0,0,CycloneDX PHP Composer Generate SBOM,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+cve-bin-tool,SPDX,1,1,0,1,1,0,0,1,0,0,1,1,Generate SBoM for Elixir project,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+SBOM CLI,SPDX,1,0,0,1,0,0,0,0,0,0,0,0,CycloneDX .NET Generate SBOM,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+Cosign,SPDX,1,0,0,1,0,0,0,0,0,0,0,0,CycloneDX for SBT (Scala),CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+gh-sbom,SPDX,1,0,0,1,0,0,0,0,0,0,1,1,CycloneDX for Erlang/Elixir (Rebar3),CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+Syft,SPDX,1,0,0,1,0,0,0,0,1,0,1,1,CycloneDX for NPM,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+CodeNotary CAS,SPDX,1,1,1,1,1,0,0,1,0,0,0,0,CycloneDX for Node.js,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+apt2sbom,SPDX,1,0,0,1,0,0,0,0,0,0,0,0,CycloneDX for Erlang/Elixir (Mix),CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+SBOM-Manager,SPDX,0,1,0,1,0,0,1,1,0,0,0,0,CycloneDX for Maven,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+SBOM4Files,SPDX,1,0,0,1,0,0,0,0,0,0,1,1,CycloneDX for Gradle,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+Distro2SBOM,SPDX,1,0,0,1,0,0,0,0,0,0,1,1,CycloneDX for Go,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+SBOMAudit,SPDX,0,1,0,1,1,0,1,1,0,0,0,0,CycloneDX for Webpack,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+SBOMTrend,SPDX,0,1,0,1,0,1,0,1,0,0,0,0,CycloneDX JavaScript Library,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+sbom-swissarmy-bitbucket-pipe,SPDX,1,1,0,1,0,0,0,0,0,0,1,1,Auditjs,CycloneDX,1,1,0,1,0,0,0,0,0,0,1,1
+Protobom,SPDX,1,0,0,1,0,0,1,1,1,0,0,1,MLBOMdoc,CycloneDX,0,1,0,1,1,0,1,1,0,0,0,0
+sbomqs,SPDX,0,1,0,1,1,0,1,1,0,0,0,0,vsm-sbom-booster,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+,78,74.35897436,70.51282051,8.974358974,94.87179487,67.94871795,10.25641026,43.58974359,79.48717949,14.1025641,11.53846154,37.17948718,46.15384615,cyclonedx-npm-pipe,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+,,,,,,,,,,,,,,CycloneDX Libraries for .NET,CycloneDX,1,0,0,1,0,0,1,1,0,0,1,1
+,,,,,,,,,,,,,,ntia-conformance-checker,CycloneDX,0,1,0,1,0,0,1,1,0,0,1,1
+,,,,,,,,,,,,,,REuse,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,sbom-tool,CycloneDX,1,1,0,1,0,0,0,0,0,0,1,1
+,,,,,,,,,,,,,,SPDX Golang Libraries,CycloneDX,1,1,0,1,1,0,1,1,1,0,1,1
+,,,,,,,,,,,,,,SPDX Java Libraries and Tools,CycloneDX,1,1,0,1,1,1,1,1,1,1,1,1
+,,,,,,,,,,,,,,SPDX JavaScript Libraries,CycloneDX,0,1,0,1,0,1,0,1,1,0,1,1
+,,,,,,,,,,,,,,SPDX Maven Plugin,CycloneDX,1,0,0,1,0,0,0,0,0,0,1,1
+,,,,,,,,,,,,,,SPDX Online Tools,CycloneDX,0,1,1,1,1,1,1,1,1,0,1,1
+,,,,,,,,,,,,,,SPDX Python Libraries,CycloneDX,1,1,0,1,0,0,1,1,1,0,1,1
+,,,,,,,,,,,,,,spdx-sbom-generator,CycloneDX,1,1,0,1,0,0,0,0,0,0,1,1
+,,,,,,,,,,,,,,SW360,CycloneDX,0,0,0,0,1,1,1,1,0,1,0,1
+,,,,,,,,,,,,,,Yocto Project / OpenEmbedded,CycloneDX,1,1,0,1,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,92,79.34782609,57.60869565,6.52173913,92.39130435,46.73913043,6.52173913,23.91304348,55.43478261,15.2173913,7.608695652,52.17391304,63.04347826

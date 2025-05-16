@@ -1,0 +1,15 @@
+Category,p-value,effect size
+Code Components,0.4425,
+Libraries,0.02567,-0.4673472 (small)
+Release Management and Versioning,0.3036,
+Bug Fixes and Defects,< 2.2e-16,0.9082682 (large)
+Code Quality ,0.1462,
+Continuous Integration and Deployment (CI/CD),0.08224,0.01034706 (negligible)
+Configuration,0.03603,0.1631081 (negligible)
+Licensing,0.01582,-0.4473488 (small)
+Documentation,0.1061,
+Integration,0.1639,
+User Interface and Outputs,0.0002173,0.4036511 (small)
+Feature Development and Enhancement,< 2.2e-16,0.2978172 (small)
+Community Engagement and Support,0.03136,-0.03041823 (negligible)
+Technical Debt,0.3571,

@@ -1,0 +1,171 @@
+﻿Name,Opensource,Supports SPDX,BUILD,ANALYZE,EDIT,VIEW,DIFF,IMPORT,TRANSLATE,MERGE,SUPPORT
+Fortify on Demand,0,0,1,1,0,1,0,0,0,0,0
+Apiiro,0,0,1,1,0,1,0,0,0,0,1
+Veracode,0,0,1,1,0,0,0,0,0,0,0
+Cybellum SBOM,0,0,1,1,1,1,0,1,1,1,1
+Arsenal,0,0,1,1,0,1,0,1,0,0,0
+Bytesafe,0,1,0,1,0,1,0,1,0,0,1
+RKVST SBOM Hub,0,1,1,1,0,0,0,0,0,0,0
+Xygeni Software Supply-Chain Security,0,1,1,0,0,1,0,0,0,0,1
+Vulert,0,1,0,1,0,1,0,1,0,0,0
+TrustSource,0,1,0,1,1,1,0,1,0,0,1
+Tidelift,0,1,1,1,0,1,0,1,0,0,0
+FACT,0,1,1,1,0,1,0,0,0,0,0
+StackAware,0,0,0,1,0,1,0,0,0,0,0
+Sonatype Lift,0,1,1,1,0,1,0,0,0,0,0
+CodeSentry,0,0,1,1,0,1,0,0,0,0,1
+FOSSA,0,1,1,1,0,1,0,1,0,0,0
+Nexus IQ,0,1,1,1,0,1,0,0,0,0,1
+BlackBerry Jarvis,0,1,0,1,0,0,0,0,0,0,0
+SecureStack,0,0,1,1,0,0,0,0,0,0,1
+SBOM.sh,0,1,1,0,0,1,0,1,0,0,0
+SBOM Observer,0,1,1,1,0,1,0,1,0,0,1
+SBOM Insights,0,1,1,1,1,1,0,1,0,1,1
+Software Assurance Guardian Point Man,0,1,1,1,0,1,0,1,0,0,0
+SBOM Benchmark,0,1,0,1,0,1,1,0,0,0,0
+PulseUno Plugin for Dimensions CM,0,0,1,1,0,1,0,0,0,0,0
+Reliza Hub,0,0,1,0,0,1,0,1,0,0,1
+Codenotary vcn,0,1,1,1,0,1,0,0,0,0,0
+Prisma Cloud,0,0,1,1,0,1,0,0,0,0,0
+NowSecure Platform,0,0,1,1,0,1,0,0,0,0,0
+JDisc Discovery,0,0,1,1,0,1,0,1,0,0,1
+NetRise Turbine,0,1,1,1,0,1,0,1,0,1,0
+Mend SCA,0,1,1,1,0,1,0,0,0,0,0
+Manifest,0,1,1,1,0,1,1,1,0,1,1
+Kondukto,0,1,1,1,0,1,0,1,0,0,1
+Xray,0,1,1,1,0,1,0,0,0,0,0
+Ion Channel Platform,0,1,1,1,0,1,0,1,0,0,0
+Vulnerabilities.io,0,1,1,1,0,1,0,0,0,0,1
+Flawnter,0,1,1,1,0,0,0,0,0,0,1
+Enso,0,1,1,1,0,1,0,0,0,0,1
+Endor Labs,0,1,1,1,0,1,0,0,0,0,0
+JupiterOne,0,0,1,1,0,1,0,0,0,0,0
+Debricked,0,0,1,1,0,1,0,0,0,0,1
+Fortress File Integrity Assurance,0,1,1,1,0,1,1,1,1,0,1
+Rezilion Dynamic SBOM,0,1,1,1,0,1,0,0,0,0,1
+MedScan,0,1,0,1,0,0,0,1,0,0,0
+CxSCA,0,0,1,1,0,1,0,0,0,0,1
+CAST Highlight,0,0,1,1,0,1,0,1,0,0,1
+Black Duck,0,1,1,1,0,1,0,1,0,0,1
+Beniva Software Bill of Materials (SBOM),0,0,0,1,0,1,0,1,0,0,0
+Contrast Security,0,1,1,1,0,1,0,0,0,0,0
+Heimdall,0,1,1,1,0,1,0,1,1,0,0
+ONEKEY firmware analysis platform,0,1,1,1,0,1,0,0,0,0,1
+Athena,0,0,1,1,0,1,0,0,0,0,0
+Arnica,0,0,1,1,0,1,0,0,0,0,1
+SCANOSS,0,1,1,1,0,1,0,1,0,0,1
+Cybeats SBOM Studio,0,1,1,1,0,0,0,1,1,1,1
+DejaCode,0,0,1,1,1,1,0,0,1,0,0
+FOSSID,0,1,1,1,0,1,1,1,0,0,0
+Interlynk,0,1,1,1,0,1,0,1,1,1,0
+Snyk,0,1,1,1,0,1,0,1,0,0,0
+SourceAuditor,0,0,0,1,0,1,1,1,1,0,0
+Vigilant Ops,0,1,1,1,0,1,0,0,1,0,1
+Jake,1,0,1,0,0,1,0,0,0,0,0
+gobom,1,0,1,0,0,0,0,0,0,1,0
+Vuls,1,0,1,1,0,1,0,0,0,0,0
+CycloneDX Web Tool,1,0,0,0,0,1,0,0,1,1,0
+Grype,1,1,1,0,0,1,0,1,0,0,0
+Covenant,1,1,1,0,0,1,0,0,1,0,1
+Parlay,1,1,0,0,1,0,0,0,0,0,0
+macaron,1,0,0,0,0,0,0,1,0,0,1
+OSS Review Toolkit (ORT),1,1,1,1,0,1,1,1,0,0,0
+CycloneDX Rust,1,0,0,0,0,0,0,0,0,0,1
+Lib4sbom,1,1,1,0,1,0,0,1,0,0,0
+LicenseComplianceTool,1,0,0,0,1,0,0,1,0,0,0
+Codenotary CAS Notarize Docker Image and SBOM,1,1,1,0,0,1,0,0,0,0,0
+Codenotary CAS Authenticate Docker Image and SBOM,1,1,1,0,0,1,0,0,0,0,0
+Augur,1,0,1,1,0,0,0,0,0,0,0
+bom,1,0,1,1,0,1,0,0,0,0,1
+Cavil,1,0,0,0,0,1,0,0,0,0,0
+CycloneDX CLI,1,1,1,1,1,1,1,0,1,1,0
+FOSSLight,1,0,0,1,1,1,0,0,1,1,0
+FOSSology,1,1,0,1,1,1,1,0,1,1,1
+GitHub Self-Service SBOMs,1,1,0,1,0,0,0,0,0,0,0
+in-toto,1,1,1,0,0,0,0,0,0,0,0
+Nix / Nixpkgs,1,0,1,0,0,0,0,0,0,0,0
+yasca (Yet Another SCA tool),1,0,1,0,0,1,0,0,0,0,0
+CycloneDX PHP Library,1,0,1,0,1,0,0,0,1,0,0
+mdbom,1,0,0,0,0,1,0,0,1,0,0
+cyclonedx-merge,1,0,0,0,0,0,0,0,0,1,0
+Tern,1,1,1,1,0,1,0,0,0,0,1
+SnykVulnCheck,1,0,0,1,0,0,0,0,0,0,0
+Semgrep,1,0,1,1,0,1,0,0,0,0,0
+SecObserve,1,0,1,1,0,1,0,0,0,0,1
+Scancode Toolkit,1,1,0,1,0,1,0,0,0,0,0
+SBOM Grep,1,1,0,1,0,1,0,1,0,0,0
+SBOM Explorer,1,1,0,0,0,0,0,1,0,0,0
+Valaa Stack,1,0,1,0,0,0,0,0,1,0,0
+SBOM Assembler,1,1,0,0,0,0,0,1,0,1,0
+Salus,1,0,1,1,0,1,0,0,0,0,1
+sca-codeinsight-reports-cyclonedx,1,0,1,0,0,0,0,0,0,0,0
+CycloneDX Python Library,1,0,1,0,0,1,1,1,1,0,1
+Nexus Lifecycle Jenkins Plugin,1,0,1,1,0,1,0,0,0,0,0
+spdxcyclone,1,1,0,0,0,0,0,0,1,0,0
+Checkov,1,0,1,1,0,0,0,0,0,0,0
+docker-sbom-cli-plugin,1,1,1,0,0,0,0,0,0,0,0
+Dependency-Track Maven Plugin,1,0,1,1,0,1,0,1,0,0,1
+CycloneDX Core for Java,1,0,1,1,0,0,0,1,0,0,1
+Lagoon Insights Handler,1,1,0,0,0,0,0,1,0,0,1
+Kyverno,1,0,1,1,0,1,0,0,0,0,1
+KubeClarity,1,1,1,1,0,1,0,0,0,1,1
+kbom - Kubernetes Bill of Materials powered by KSOC,1,0,1,0,0,0,0,0,0,0,0
+jbom,1,0,1,0,0,0,0,0,0,0,0
+oss_inventory,1,0,0,1,0,1,0,1,0,0,0
+CycloneDX library for Go,1,0,1,0,0,0,0,1,0,0,0
+sbom-submission-action,1,0,0,1,0,0,0,0,0,0,1
+action-owasp-dependecy-track-check,1,0,1,1,0,1,0,0,0,0,0
+SwiftBOM,1,1,1,0,0,1,0,0,0,0,0
+SRC:CLR SBOM Generator,1,0,1,1,0,0,0,0,0,0,0
+Vexy,1,0,1,1,0,0,0,0,0,0,0
+EMBA,1,0,1,1,0,1,0,0,0,0,0
+ThreatMapper,1,1,1,1,0,1,0,0,0,0,0
+DaggerBoard,1,1,0,1,0,1,0,1,0,0,0
+cve-bin-tool,1,1,1,1,0,1,0,0,0,0,1
+CycloneDX for .NET,1,0,1,0,0,0,0,0,0,0,0
+cdxgen,1,0,1,1,0,0,0,0,0,0,1
+CycloneDX Python Generate SBOM,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX PHP Composer Generate SBOM,1,0,1,0,0,0,0,0,0,0,1
+SBOM CLI,1,1,1,0,0,0,0,0,0,0,0
+Generate SBoM for Elixir project,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX .NET Generate SBOM,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for SBT (Scala),1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Erlang/Elixir (Rebar3),1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for NPM,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Node.js,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Erlang/Elixir (Mix),1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Maven,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Gradle,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Go,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX for Webpack,1,0,1,0,0,0,0,0,0,0,1
+CycloneDX JavaScript Library,1,0,1,0,0,0,0,0,0,0,1
+Cosign,1,1,1,0,0,0,0,0,0,0,0
+gh-sbom,1,1,1,0,0,0,0,0,0,0,1
+Syft,1,1,1,0,0,0,0,0,1,0,1
+CodeNotary CAS,1,1,1,1,1,1,0,0,0,0,0
+apt2sbom,1,1,1,0,0,0,0,0,0,0,0
+Auditjs,1,0,1,1,0,0,0,0,0,0,1
+SBOM-Manager,1,1,0,1,0,0,0,1,0,0,0
+MLBOMdoc,1,0,0,1,0,1,0,1,0,0,0
+SBOM4Files,1,1,1,0,0,0,0,0,0,0,1
+Distro2SBOM,1,1,1,0,0,0,0,0,0,0,1
+SBOMAudit,1,1,0,1,0,1,0,1,0,0,0
+SBOMTrend,1,1,0,1,0,0,1,0,0,0,0
+vsm-sbom-booster,1,0,1,0,0,0,0,0,0,0,1
+cyclonedx-npm-pipe,1,0,1,0,0,0,0,0,0,0,1
+sbom-swissarmy-bitbucket-pipe,1,1,1,1,0,0,0,0,0,0,1
+CycloneDX Libraries for .NET,1,0,1,0,0,0,0,1,0,0,1
+ntia-conformance-checker,1,0,0,1,0,0,0,1,0,0,1
+Protobom,1,1,1,0,0,0,0,1,1,0,0
+REuse,1,0,1,1,0,0,0,0,0,0,0
+sbomqs,1,1,0,1,0,1,0,1,0,0,0
+sbom-tool,1,0,1,1,0,0,0,0,0,0,1
+SPDX Golang Libraries,1,0,1,1,0,1,0,1,1,0,1
+SPDX Java Libraries and Tools,1,0,1,1,0,1,1,1,1,1,1
+SPDX JavaScript Libraries,1,0,0,1,0,0,1,0,1,0,1
+SPDX Maven Plugin,1,0,1,0,0,0,0,0,0,0,1
+SPDX Online Tools,1,0,0,1,1,1,1,1,1,0,1
+SPDX Python Libraries,1,0,1,1,0,0,0,1,1,0,1
+spdx-sbom-generator,1,0,1,1,0,0,0,0,0,0,1
+SW360,1,0,0,0,0,1,1,1,0,1,0
+Yocto Project / OpenEmbedded,1,0,1,1,0,0,0,0,0,0,0

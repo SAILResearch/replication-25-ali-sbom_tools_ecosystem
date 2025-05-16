@@ -1,0 +1,29 @@
+,category,identifier,n,total,percentage,order
+1,Bug Fixes and Defects,CycloneDX,7619,17251,44.16555562,15
+2,Bug Fixes and Defects,SPDX,439,12036,3.64739116,7
+4,Code Components,SPDX,2117,12036,17.58889997,3
+3,Code Components,CycloneDX,362,17251,2.098429077,20
+5,Code Quality,CycloneDX,1134,17251,6.573531969,17
+6,Code Quality,SPDX,109,12036,0.905616484,9
+8,Community Engagement and Support,SPDX,497,12036,4.12927883,6
+7,Community Engagement and Support,CycloneDX,330,17251,1.912932584,22
+10,Configuration,SPDX,600,12036,4.985044865,4
+9,Configuration,CycloneDX,339,17251,1.965103472,21
+12,Continuous Integration and Deployment,SPDX,97,12036,0.805915587,10
+11,Continuous Integration and Deployment,CycloneDX,36,17251,0.208683555,28
+14,Documentation,SPDX,517,12036,4.295446992,5
+13,Documentation,CycloneDX,320,17251,1.85496493,23
+16,Feature Development and Enhancement,SPDX,4900,12036,40.71119973,1
+15,Feature Development and Enhancement,CycloneDX,5402,17251,31.31412672,16
+17,Integration and Interfacing,CycloneDX,194,17251,1.124572489,24
+18,Integration and Interfacing,SPDX,42,12036,0.348953141,13
+19,Libraries,CycloneDX,109,17251,0.631847429,26
+20,Libraries,SPDX,34,12036,0.282485876,14
+22,Licensing,SPDX,2280,12036,18.94317049,2
+21,Licensing,CycloneDX,141,17251,0.817343922,25
+23,Release Management and Versioning,CycloneDX,422,17251,2.446235001,19
+24,Release Management and Versioning,SPDX,50,12036,0.415420405,12
+26,Technical Debt,SPDX,68,12036,0.564971751,11
+25,Technical Debt,CycloneDX,64,17251,0.370992986,27
+27,User Interface and Outputs,CycloneDX,779,17251,4.51568025,18
+28,User Interface and Outputs,SPDX,286,12036,2.376204719,8

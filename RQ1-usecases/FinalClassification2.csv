@@ -1,0 +1,171 @@
+﻿Name,Support,Type,BUILD,ANALYZE,EDIT,VIEW,DIFF,IMPORT,TRANSLATE,MERGE,SUPPORT
+Fortify on Demand,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,0
+Apiiro,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,1
+Veracode,CycloneDx,Proprietary,1,1,0,0,0,0,0,0,0
+Cybellum SBOM,CycloneDx,Proprietary,1,1,1,1,0,1,1,1,1
+Arsenal,CycloneDx,Proprietary,1,1,0,1,0,1,0,0,0
+StackAware,CycloneDx,Proprietary,0,1,0,1,0,0,0,0,0
+CodeSentry,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,1
+SecureStack,CycloneDx,Proprietary,1,1,0,0,0,0,0,0,1
+PulseUno Plugin for Dimensions CM,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,0
+Reliza Hub,CycloneDx,Proprietary,1,0,0,1,0,1,0,0,1
+Prisma Cloud,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,0
+NowSecure Platform,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,0
+JDisc Discovery,CycloneDx,Proprietary,1,1,0,1,0,1,0,0,1
+JupiterOne,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,0
+Debricked,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,1
+CxSCA,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,1
+CAST Highlight,CycloneDx,Proprietary,1,1,0,1,0,1,0,0,1
+Beniva Software Bill of Materials (SBOM),CycloneDx,Proprietary,0,1,0,1,0,1,0,0,0
+Athena,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,0
+Arnica,CycloneDx,Proprietary,1,1,0,1,0,0,0,0,1
+Jake,CycloneDx,Opensource,1,0,0,1,0,0,0,0,0
+gobom,CycloneDx,Opensource,1,0,0,0,0,0,0,1,0
+Vuls,CycloneDx,Opensource,1,1,0,1,0,0,0,0,0
+CycloneDX Web Tool,CycloneDx,Opensource,0,0,0,1,0,0,1,1,0
+macaron,CycloneDx,Opensource,0,0,0,0,0,1,0,0,1
+CycloneDX Rust,CycloneDx,Opensource,0,0,0,0,0,0,0,0,1
+LicenseComplianceTool,CycloneDx,Opensource,0,0,1,0,0,1,0,0,0
+yasca (Yet Another SCA tool),CycloneDx,Opensource,1,0,0,1,0,0,0,0,0
+CycloneDX PHP Library,CycloneDx,Opensource,1,0,1,0,0,0,1,0,0
+mdbom,CycloneDx,Opensource,0,0,0,1,0,0,1,0,0
+cyclonedx-merge,CycloneDx,Opensource,0,0,0,0,0,0,0,1,0
+SnykVulnCheck,CycloneDx,Opensource,0,1,0,0,0,0,0,0,0
+Semgrep,CycloneDx,Opensource,1,1,0,1,0,0,0,0,0
+SecObserve,CycloneDx,Opensource,1,1,0,1,0,0,0,0,1
+Valaa Stack,CycloneDx,Opensource,1,0,0,0,0,0,1,0,0
+Salus,CycloneDx,Opensource,1,1,0,1,0,0,0,0,1
+sca-codeinsight-reports-cyclonedx,CycloneDx,Opensource,1,0,0,0,0,0,0,0,0
+CycloneDX Python Library,CycloneDx,Opensource,1,0,0,1,1,1,1,0,1
+Nexus Lifecycle Jenkins Plugin,CycloneDx,Opensource,1,1,0,1,0,0,0,0,0
+Checkov,CycloneDx,Opensource,1,1,0,0,0,0,0,0,0
+Dependency-Track Maven Plugin,CycloneDx,Opensource,1,1,0,1,0,1,0,0,1
+CycloneDX Core for Java,CycloneDx,Opensource,1,1,0,0,0,1,0,0,1
+Kyverno,CycloneDx,Opensource,1,1,0,1,0,0,0,0,1
+kbom - Kubernetes Bill of Materials powered by KSOC,CycloneDx,Opensource,1,0,0,0,0,0,0,0,0
+jbom,CycloneDx,Opensource,1,0,0,0,0,0,0,0,0
+oss_inventory,CycloneDx,Opensource,0,1,0,1,0,1,0,0,0
+CycloneDX library for Go,CycloneDx,Opensource,1,0,0,0,0,1,0,0,0
+sbom-submission-action,CycloneDx,Opensource,0,1,0,0,0,0,0,0,1
+action-owasp-dependecy-track-check,CycloneDx,Opensource,1,1,0,1,0,0,0,0,0
+SRC:CLR SBOM Generator,CycloneDx,Opensource,1,1,0,0,0,0,0,0,0
+Vexy,CycloneDx,Opensource,1,1,0,0,0,0,0,0,0
+EMBA,CycloneDx,Opensource,1,1,0,1,0,0,0,0,0
+CycloneDX for .NET,CycloneDx,Opensource,1,0,0,0,0,0,0,0,0
+cdxgen,CycloneDx,Opensource,1,1,0,0,0,0,0,0,1
+CycloneDX Python Generate SBOM,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX PHP Composer Generate SBOM,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+Generate SBoM for Elixir project,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX .NET Generate SBOM,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for SBT (Scala),CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Erlang/Elixir (Rebar3),CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for NPM,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Node.js,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Erlang/Elixir (Mix),CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Maven,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Gradle,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Go,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX for Webpack,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX JavaScript Library,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+Auditjs,CycloneDx,Opensource,1,1,0,0,0,0,0,0,1
+MLBOMdoc,CycloneDx,Opensource,0,1,0,1,0,1,0,0,0
+vsm-sbom-booster,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+cyclonedx-npm-pipe,CycloneDx,Opensource,1,0,0,0,0,0,0,0,1
+CycloneDX Libraries for .NET,CycloneDx,Opensource,1,0,0,0,0,1,0,0,1
+DejaCode,SPDX,Proprietary,1,1,1,1,0,0,1,0,0
+SourceAuditor,SPDX,Proprietary,0,1,0,1,1,1,1,0,0
+Augur,SPDX,Opensource,1,1,0,0,0,0,0,0,0
+bom,SPDX,Opensource,1,1,0,1,0,0,0,0,1
+Cavil,SPDX,Opensource,0,0,0,1,0,0,0,0,0
+FOSSLight,SPDX,Opensource,0,1,1,1,0,0,1,1,0
+Nix / Nixpkgs,SPDX,Opensource,1,0,0,0,0,0,0,0,0
+ntia-conformance-checker,SPDX,Opensource,0,1,0,0,0,1,0,0,1
+REuse,SPDX,Opensource,1,1,0,0,0,0,0,0,0
+sbom-tool,SPDX,Opensource,1,1,0,0,0,0,0,0,1
+SPDX Golang Libraries,SPDX,Opensource,1,1,0,1,0,1,1,0,1
+SPDX Java Libraries and Tools,SPDX,Opensource,1,1,0,1,1,1,1,1,1
+SPDX JavaScript Libraries,SPDX,Opensource,0,1,0,0,1,0,1,0,1
+SPDX Maven Plugin,SPDX,Opensource,1,0,0,0,0,0,0,0,1
+SPDX Online Tools,SPDX,Opensource,0,1,1,1,1,1,1,0,1
+SPDX Python Libraries,SPDX,Opensource,1,1,0,0,0,1,1,0,1
+spdx-sbom-generator,SPDX,Opensource,1,1,0,0,0,0,0,0,1
+SW360,SPDX,Opensource,0,0,0,1,1,1,0,1,0
+Yocto Project / OpenEmbedded,SPDX,Opensource,1,1,0,0,0,0,0,0,0
+Bytesafe,DualFormat,Proprietary,0,1,0,1,0,1,0,0,1
+RKVST SBOM Hub,DualFormat,Proprietary,1,1,0,0,0,0,0,0,0
+Xygeni Software Supply-Chain Security,DualFormat,Proprietary,1,0,0,1,0,0,0,0,1
+Vulert,DualFormat,Proprietary,0,1,0,1,0,1,0,0,0
+TrustSource,DualFormat,Proprietary,0,1,1,1,0,1,0,0,1
+Tidelift,DualFormat,Proprietary,1,1,0,1,0,1,0,0,0
+FACT,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+Sonatype Lift,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+FOSSA,DualFormat,Proprietary,1,1,0,1,0,1,0,0,0
+Nexus IQ,DualFormat,Proprietary,1,1,0,1,0,0,0,0,1
+BlackBerry Jarvis,DualFormat,Proprietary,0,1,0,0,0,0,0,0,0
+SBOM.sh,DualFormat,Proprietary,1,0,0,1,0,1,0,0,0
+SBOM Observer,DualFormat,Proprietary,1,1,0,1,0,1,0,0,1
+SBOM Insights,DualFormat,Proprietary,1,1,1,1,0,1,0,1,1
+Software Assurance Guardian Point Man,DualFormat,Proprietary,1,1,0,1,0,1,0,0,0
+SBOM Benchmark,DualFormat,Proprietary,0,1,0,1,1,0,0,0,0
+Codenotary vcn,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+NetRise Turbine,DualFormat,Proprietary,1,1,0,1,0,1,0,1,0
+Mend SCA,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+Manifest,DualFormat,Proprietary,1,1,0,1,1,1,0,1,1
+Kondukto,DualFormat,Proprietary,1,1,0,1,0,1,0,0,1
+Xray,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+Ion Channel Platform,DualFormat,Proprietary,1,1,0,1,0,1,0,0,0
+Vulnerabilities.io,DualFormat,Proprietary,1,1,0,1,0,0,0,0,1
+Flawnter,DualFormat,Proprietary,1,1,0,0,0,0,0,0,1
+Enso,DualFormat,Proprietary,1,1,0,1,0,0,0,0,1
+Endor Labs,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+Fortress File Integrity Assurance,DualFormat,Proprietary,1,1,0,1,1,1,1,0,1
+Rezilion Dynamic SBOM,DualFormat,Proprietary,1,1,0,1,0,0,0,0,1
+MedScan,DualFormat,Proprietary,0,1,0,0,0,1,0,0,0
+Black Duck,DualFormat,Proprietary,1,1,0,1,0,1,0,0,1
+Contrast Security,DualFormat,Proprietary,1,1,0,1,0,0,0,0,0
+Heimdall,DualFormat,Proprietary,1,1,0,1,0,1,1,0,0
+ONEKEY firmware analysis platform,DualFormat,Proprietary,1,1,0,1,0,0,0,0,1
+SCANOSS,DualFormat,Proprietary,1,1,0,1,0,1,0,0,1
+Cybeats SBOM Studio,DualFormat,Proprietary,1,1,0,0,0,1,1,1,1
+FOSSID,DualFormat,Proprietary,1,1,0,1,1,1,0,0,0
+Interlynk,DualFormat,Proprietary,1,1,0,1,0,1,1,1,0
+Snyk,DualFormat,Proprietary,1,1,0,1,0,1,0,0,0
+Vigilant Ops,DualFormat,Proprietary,1,1,0,1,0,0,1,0,1
+Grype,DualFormat,Opensource,1,0,0,1,0,1,0,0,0
+Covenant,DualFormat,Opensource,1,0,0,1,0,0,1,0,1
+Parlay,DualFormat,Opensource,0,0,1,0,0,0,0,0,0
+OSS Review Toolkit (ORT),DualFormat,Opensource,1,1,0,1,1,1,0,0,0
+Lib4sbom,DualFormat,Opensource,1,0,1,0,0,1,0,0,0
+Codenotary CAS Notarize Docker Image and SBOM,DualFormat,Opensource,1,0,0,1,0,0,0,0,0
+Codenotary CAS Authenticate Docker Image and SBOM,DualFormat,Opensource,1,0,0,1,0,0,0,0,0
+CycloneDX CLI,DualFormat,Opensource,1,1,1,1,1,0,1,1,0
+FOSSology,DualFormat,Opensource,0,1,1,1,1,0,1,1,1
+GitHub Self-Service SBOMs,DualFormat,Opensource,0,1,0,0,0,0,0,0,0
+in-toto,DualFormat,Opensource,1,0,0,0,0,0,0,0,0
+Tern,DualFormat,Opensource,1,1,0,1,0,0,0,0,1
+Scancode Toolkit,DualFormat,Opensource,0,1,0,1,0,0,0,0,0
+SBOM Grep,DualFormat,Opensource,0,1,0,1,0,1,0,0,0
+SBOM Explorer,DualFormat,Opensource,0,0,0,0,0,1,0,0,0
+SBOM Assembler,DualFormat,Opensource,0,0,0,0,0,1,0,1,0
+spdxcyclone,DualFormat,Opensource,0,0,0,0,0,0,1,0,0
+docker-sbom-cli-plugin,DualFormat,Opensource,1,0,0,0,0,0,0,0,0
+Lagoon Insights Handler,DualFormat,Opensource,0,0,0,0,0,1,0,0,1
+KubeClarity,DualFormat,Opensource,1,1,0,1,0,0,0,1,1
+SwiftBOM,DualFormat,Opensource,1,0,0,1,0,0,0,0,0
+ThreatMapper,DualFormat,Opensource,1,1,0,1,0,0,0,0,0
+DaggerBoard,DualFormat,Opensource,0,1,0,1,0,1,0,0,0
+cve-bin-tool,DualFormat,Opensource,1,1,0,1,0,0,0,0,1
+SBOM CLI,DualFormat,Opensource,1,0,0,0,0,0,0,0,0
+Cosign,DualFormat,Opensource,1,0,0,0,0,0,0,0,0
+gh-sbom,DualFormat,Opensource,1,0,0,0,0,0,0,0,1
+Syft,DualFormat,Opensource,1,0,0,0,0,0,1,0,1
+CodeNotary CAS,DualFormat,Opensource,1,1,1,1,0,0,0,0,0
+apt2sbom,DualFormat,Opensource,1,0,0,0,0,0,0,0,0
+SBOM-Manager,DualFormat,Opensource,0,1,0,0,0,1,0,0,0
+SBOM4Files,DualFormat,Opensource,1,0,0,0,0,0,0,0,1
+Distro2SBOM,DualFormat,Opensource,1,0,0,0,0,0,0,0,1
+SBOMAudit,DualFormat,Opensource,0,1,0,1,0,1,0,0,0
+SBOMTrend,DualFormat,Opensource,0,1,0,0,1,0,0,0,0
+sbom-swissarmy-bitbucket-pipe,DualFormat,Opensource,1,1,0,0,0,0,0,0,1
+Protobom,DualFormat,Opensource,1,0,0,0,0,1,1,0,0
+sbomqs,DualFormat,Opensource,0,1,0,1,0,1,0,0,0
